@@ -25,12 +25,11 @@ class _ProfilePageState extends State<ProfilePage> {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-
                       Container(
                         width: 50,
                         height: 50,
                         decoration: BoxDecoration(
-                          color: Colors.white,
+                          color: Colors.black,
                           borderRadius: BorderRadius.circular(20),
                           border: Border.all(
                             color: Colors.grey.withAlpha(40),

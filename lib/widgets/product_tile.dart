@@ -18,7 +18,7 @@ product(this.id,this.name,this.imagePath);
             Image.asset(imagePath,fit: BoxFit.cover,),
             ListTile(
               title: Text(name),
-              subtitle: Text('20'),
+              subtitle: Text('200\$',style: TextStyle(fontWeight: FontWeight.bold),),
               trailing: Icon(Icons.arrow_forward),
             )
           ],

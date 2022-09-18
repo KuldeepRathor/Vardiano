@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vardiano/screens/profile/myprofile_section.dart';
+import 'package:vardiano/screens/savedproducts.dart';
 import '../screens/profile_page.dart';
 import '../widgets/product_grid.dart';
 import '../widgets/scrollbar.dart';
@@ -19,10 +20,7 @@ class _navigationbarState extends State<navigationbar> {
   TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
     homepage(),
-    Text(
-      'SAVED',
-      style: optionStyle,
-    ),
+    SAVEDITEM(),
     Text(
       'REMINDERS',
       style: optionStyle,
