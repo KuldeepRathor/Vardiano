@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979880278513",
+    "project_id": "vardiano-7123f",
+    "storage_bucket": "vardiano-7123f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979880278513:android:2d109d4fd3551798066c50",
+        "android_client_info": {
+          "package_name": "com.example.vardiano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979880278513-nk4k1pcdp4k2m6irhmqtqblk2mncqive.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Dcvlximd7iFDTgGW3Qr1f9FE3tBNA5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979880278513-nk4k1pcdp4k2m6irhmqtqblk2mncqive.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
